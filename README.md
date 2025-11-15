@@ -1,8 +1,6 @@
 # Adverse Event Reporting SOP  
 *A complete technical writing project demonstrating pharmacovigilance and regulatory documentation skills.*
 
----
-
 ## Overview  
 This project is a fully developed **Standard Operating Procedure (SOP)** that outlines the end-to-end workflow for **Adverse Event (AE) and Adverse Drug Reaction (ADR) reporting** in compliance with international pharmacovigilance regulations (Health Canada, FDA, EMA, MHRA, CDSCO, WHO).
 
@@ -14,7 +12,6 @@ The document demonstrates expertise in:
 - MedDRA coding principles  
 - Case processing workflows  
 
-
 ## Skills Demonstrated
 - SOP writing & documentation  
 - Healthcare/Pharma technical writing  
@@ -23,7 +20,6 @@ The document demonstrates expertise in:
 - Regulatory compliance (ICH E2A/E2B)  
 - Pharmacovigilance fundamentals  
 - Case processing & safety reporting  
-
 
 ## Project Files
 - **Adverse-Event-Reporting-SOP.pdf** — Full SOP (Purpose, Scope, Definitions, Templates, QC, Example Case)
@@ -49,7 +45,6 @@ This SOP includes 17 professionally structured sections:
 - Example Case  
 - Compliance Notes  
 - Revision History  
-
 
 ## Relevant For Roles
 This project is ideal for showcasing portfolio skills for:
